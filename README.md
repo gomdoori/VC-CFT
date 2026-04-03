@@ -1,8 +1,15 @@
 # VC-CFT
 
-## Notion Work Archive
+## Work Record
 
 - Author: 김창수
-- Description: 데이터셋에 대한 'Reviewer2' 역할로 댓글달기 작업
-- Source: Notion export
-- Date: 2026-04-03
+- Task: VC-CFT Dataset reviewer2 comments 50
+- Start Time: 2026-04-03 12:10 KST
+- End Time: 2026-04-03 13:30 KST
+
+## Description
+Notion에서 작성한 내용을 export하여 기록.
+
+## Evidence
+- Notion export included
+- Git commit history available
